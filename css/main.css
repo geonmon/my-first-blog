@@ -1,0 +1,47 @@
+body {
+  font-family: "Nanum Pen Script", cursive;
+  background-color: rgb(255, 255, 187);
+}
+
+
+div.welcome {
+    
+    background-color: aqua;
+    font-size: 80px;
+    text-align: center;
+    color: blueviolet;
+    font-weight: 5px;
+}
+
+p.line1 {
+    background-color: rgb(82, 155, 219);
+    font-size: 60px;
+    text-align: center;
+    color: rgb(211, 45, 20);
+}
+p.line2 {
+    font-size: 40px;
+    color: brown;
+    
+}
+
+div.charcter1 {
+    font-size: 25px;
+    color: rgb(56, 36, 204);
+    text-decoration-line: underline ;
+    text-decoration-color: rgb(254, 102, 102);
+    
+}
+div.charcter2 {
+    font-size: 25px;
+    color: rgb(56, 36, 204);
+    text-decoration-line: underline ;
+    text-decoration-color: rgb(254, 102, 102);
+}
+div.charcter3 {
+    font-size: 20px;
+    color: rgb(192, 133, 247);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(133, 255, 202);
+    text-decoration-style: dotted;
+}
